@@ -1,4 +1,4 @@
-# 2-Month Training Plan for AI Expertise in Pharma and Science Domains
+# 2-Month Training Plan for AI Expertise in Pharma and Science Domains using LinkedIn Learning
 
 ## Week 1-2: Foundations of AI and Machine Learning
 
@@ -7,15 +7,15 @@ Understand the basics of AI, machine learning, and data science.
 
 ### Courses
 
-1. **Machine Learning by Andrew Ng (Coursera)**
-   - **Duration:** 11 weeks (accelerate to 2 weeks by dedicating more time)
-   - **Topics Covered:** Supervised learning, unsupervised learning, neural networks, machine learning algorithms.
-   - **Link:** [Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning)
+1. **Artificial Intelligence Foundations: Machine Learning**
+   - **Duration:** Approx. 2 hours
+   - **Topics Covered:** Basics of AI and machine learning, key algorithms.
+   - **Link:** [Artificial Intelligence Foundations: Machine Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning)
 
-2. **Python for Data Science and AI (Coursera)**
-   - **Duration:** 2 weeks
-   - **Topics Covered:** Python programming, data science libraries (Pandas, NumPy), basic AI concepts.
-   - **Link:** [Python for Data Science and AI](https://www.coursera.org/learn/python-for-applied-data-science-ai)
+2. **Python for Data Science Essential Training Part 1**
+   - **Duration:** Approx. 3 hours
+   - **Topics Covered:** Python basics, data handling with Pandas, NumPy.
+   - **Link:** [Python for Data Science Essential Training Part 1](https://www.linkedin.com/learning/python-for-data-science-essential-training-part-1)
 
 ### Practical Task
 - Implement simple machine learning models (e.g., linear regression, logistic regression) using datasets from Kaggle.
@@ -27,15 +27,15 @@ Gain hands-on experience with deep learning and advanced AI techniques.
 
 ### Courses
 
-1. **Deep Learning Specialization (Coursera)**
-   - **Duration:** 5 courses (focus on the first two courses in 2 weeks)
-   - **Topics Covered:** Neural networks, deep learning, hyperparameter tuning, regularization.
-   - **Link:** [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
+1. **Deep Learning: Introduction**
+   - **Duration:** Approx. 2 hours
+   - **Topics Covered:** Introduction to deep learning, neural networks, and key concepts.
+   - **Link:** [Deep Learning: Introduction](https://www.linkedin.com/learning/deep-learning-introduction)
 
-2. **Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning (Coursera)**
-   - **Duration:** 2 weeks
-   - **Topics Covered:** TensorFlow basics, building neural networks, implementing deep learning models.
-   - **Link:** [Introduction to TensorFlow](https://www.coursera.org/learn/introduction-tensorflow)
+2. **Neural Networks and Convolutional Neural Networks Essential Training**
+   - **Duration:** Approx. 4 hours
+   - **Topics Covered:** Neural networks basics, convolutional neural networks, practical applications.
+   - **Link:** [Neural Networks and Convolutional Neural Networks Essential Training](https://www.linkedin.com/learning/neural-networks-and-convolutional-neural-networks-essential-training)
 
 ### Practical Task
 - Build and train a neural network on a standard dataset (e.g., MNIST for digit recognition).
@@ -47,15 +47,15 @@ Learn how to apply data science and AI techniques specifically in the pharma and
 
 ### Courses
 
-1. **AI for Medicine Specialization (Coursera)**
-   - **Duration:** 3 courses (focus on the first course in 2 weeks)
-   - **Topics Covered:** Diagnostic imaging, medical data handling, AI in healthcare.
-   - **Link:** [AI for Medicine Specialization](https://www.coursera.org/specializations/ai-for-medicine)
+1. **Learning Data Science: Understanding the Basics**
+   - **Duration:** Approx. 2 hours
+   - **Topics Covered:** Fundamental concepts in data science, key techniques.
+   - **Link:** [Learning Data Science: Understanding the Basics](https://www.linkedin.com/learning/learning-data-science-understanding-the-basics)
 
-2. **Biomedical Data Science (edX)**
-   - **Duration:** 2 weeks
-   - **Topics Covered:** Biomedical data analysis, statistical methods in bioinformatics, machine learning applications in biomedical research.
-   - **Link:** [Biomedical Data Science](https://www.edx.org/course/biomedical-data-science)
+2. **Data Science Foundations: Data Mining**
+   - **Duration:** Approx. 3 hours
+   - **Topics Covered:** Data mining concepts, techniques, and applications.
+   - **Link:** [Data Science Foundations: Data Mining](https://www.linkedin.com/learning/data-science-foundations-data-mining)
 
 ### Practical Task
 - Analyze a biomedical dataset to extract meaningful insights using data science techniques.
@@ -67,15 +67,15 @@ Understand how AI is used in drug discovery, development, and clinical trials.
 
 ### Courses
 
-1. **AI for Drug Discovery and Development (Coursera)**
-   - **Duration:** 1 week
-   - **Topics Covered:** AI applications in drug discovery, machine learning models for predicting drug-target interactions, optimizing clinical trials.
-   - **Link:** [AI for Drug Discovery and Development](https://www.coursera.org/learn/ai-drug-discovery)
+1. **Artificial Intelligence in Healthcare**
+   - **Duration:** Approx. 1 hour
+   - **Topics Covered:** AI applications in healthcare, challenges and opportunities.
+   - **Link:** [Artificial Intelligence in Healthcare](https://www.linkedin.com/learning/artificial-intelligence-in-healthcare)
 
-2. **Machine Learning for Healthcare (edX)**
-   - **Duration:** 1 week
-   - **Topics Covered:** Predictive analytics in healthcare, machine learning for medical data, case studies.
-   - **Link:** [Machine Learning for Healthcare](https://www.edx.org/course/machine-learning-for-healthcare)
+2. **Data Science in Healthcare**
+   - **Duration:** Approx. 2 hours
+   - **Topics Covered:** Applying data science to healthcare problems, case studies.
+   - **Link:** [Data Science in Healthcare](https://www.linkedin.com/learning/data-science-in-healthcare)
 
 ### Practical Task
 - Work on a project to predict drug efficacy using available datasets.
